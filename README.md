@@ -2,6 +2,8 @@
 
 This is an example of [Snakemake](https://snakemake.readthedocs.io/en/stable/) installation for Stanage HPC.
 
+This repository contains a Snakemake workflow that is organised following the guidance on the [Distribution and Reproducibility](https://snakemake.readthedocs.io/en/stable/snakefiles/deployment.html) page on the Snakemake documentation.
+
 # Installation
 
 Load the [Anaconda module](https://docs.hpc.shef.ac.uk/en/latest/stanage/software/apps/python.html#gsc.tab=0):
